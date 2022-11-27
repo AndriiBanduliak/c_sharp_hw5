@@ -1,6 +1,4 @@
-﻿
-
-using static System.Console;
+﻿using static System.Console;
 Clear();
 
 int[] arr = new int[4];
